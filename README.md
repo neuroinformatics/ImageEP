@@ -1,7 +1,7 @@
 # ImageEP - the Elevated Plus Maze test plugin for ImageJ
 
 ImageEP is an ImageJ plugin for the Elevated Plus Maze test.
-This program can work with Image J 1.46 or above on Windows XP or Windows 7.
+This program can work with Image J 1.46 or above on Windows 7 or 10 (32-bit).
 
 ## How to build
 
@@ -41,7 +41,7 @@ Build jar package using Maven
 
 ```shcellscript
  $ mvn package
- $ file target/behavior_121112EP.jar
+ $ file target/behavior_EP121112.jar
 ```
 
 ## Binary distribution
